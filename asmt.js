@@ -83,7 +83,7 @@ function convert(){
 
 
 
-function odd(){
+function large(){
     var num1 = document.getElementById("t3").value;
     var num2 = document.getElementById("t4").value;
     if(num1>num2){
